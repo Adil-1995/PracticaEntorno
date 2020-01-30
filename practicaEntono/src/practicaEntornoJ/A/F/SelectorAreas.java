@@ -3,7 +3,7 @@ package practicaEntornoJ.A.F;
 public class SelectorAreas {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		//Esto es un juego para calcular Areas
 
 		// selector
 		System.out.println("Que area quieres calcular ");
